@@ -1,0 +1,9 @@
+	
+	
+	Suffix tries		https://hwv.dk/st.html
+
+	LCS			https://algorithm-visualizer.org/dynamic-programming/longest-common-subsequence
+
+	Hamilton		https://graphonline.ru/en/?graph=HamiltonianGraph
+
+	Huffman tree		https://people.ok.ubc.ca/ylucet/DS/Huffman.html    and    https://resources.nerdfirst.net/huffman.html
